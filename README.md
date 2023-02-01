@@ -1,5 +1,5 @@
 # Popover-Menu-Crypto
-Popover Menu Crypto status fro MacOS App
+Popover Menu Crypto status for MacOS App
 
 ## Demo
 | Crypto Status |
